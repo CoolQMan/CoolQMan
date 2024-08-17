@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @CoolQMan
+- 🌱 I’m currently learning Data structures and Algorithms along with Android Development.
+- 💞️ I’m looking to collaborate on small QoL Android projects 
+- 📫 How to reach me: Message me on Discord: icecream._. 
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: I also have a youtube channel: Abstractical Music. I post ragtime music over there!
